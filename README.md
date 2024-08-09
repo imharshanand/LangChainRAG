@@ -1,4 +1,8 @@
 ```markdown
+
+![GPT-2 Large Model Size on NVIDIA GPU](screenshots/gpt2-large-size-nvidia-smi.png)
+
+
 # Retrieval-Augmented Generation (RAG) System Documentation
 
 ## Introduction
